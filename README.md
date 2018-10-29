@@ -13,3 +13,4 @@ Inspired by kursivee's wail-andorid - https://github.com/kursivee/wail-andorid/b
   * [Navigation](https://developer.android.com/topic/libraries/architecture/navigation/)
 * [Moshi](https://github.com/square/moshi) - JSON
 * [Retrofit](https://github.com/square/retrofit) - HTTP API Abstraction
+* [Instant Apps](https://developer.android.com/topic/google-play-instant/) - Instant Apps
