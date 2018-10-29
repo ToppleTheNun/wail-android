@@ -14,3 +14,4 @@ Inspired by kursivee's wail-andorid - https://github.com/kursivee/wail-andorid/b
 * [Moshi](https://github.com/square/moshi) - JSON
 * [Retrofit](https://github.com/square/retrofit) - HTTP API Abstraction
 * [Instant Apps](https://developer.android.com/topic/google-play-instant/) - Instant Apps
+* [Dynamic Features](https://developer.android.com/studio/projects/dynamic-delivery) - Dynamic Features
