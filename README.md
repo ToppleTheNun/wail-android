@@ -11,6 +11,7 @@ Inspired by kursivee's wail-andorid - https://github.com/kursivee/wail-andorid/b
 * [Dagger](https://github.com/google/dagger) - Dependency Injection
 * [AndroidX](https://developer.android.com/jetpack/androidx/) - Support Libraries
   * [Navigation](https://developer.android.com/topic/libraries/architecture/navigation/)
+* [Robolectric](http://robolectric.org/)
 * [Moshi](https://github.com/square/moshi) - JSON
 * [Retrofit](https://github.com/square/retrofit) - HTTP API Abstraction
 * [Instant Apps](https://developer.android.com/topic/google-play-instant/) - Instant Apps
