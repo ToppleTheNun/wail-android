@@ -19,3 +19,4 @@ Inspired by kursivee's wail-andorid - https://github.com/kursivee/wail-andorid/b
 * [Espresso](https://developer.android.com/training/testing/espresso/) - UI Testing Framework
 * [R8](https://android-developers.googleblog.com/2018/11/r8-new-code-shrinker-from-google-is.html) - Minification
 * [Litho](https://fblitho.com/)
+* [Room](https://developer.android.com/topic/libraries/architecture/room)
